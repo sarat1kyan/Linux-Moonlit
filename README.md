@@ -113,6 +113,7 @@ Check out our [Contribution Guide](CONTRIBUTING.md) for more details on how you 
  📜 **License**
 
 Linux-Moonlit is licensed under the MIT License. 
+See the [LICENSE](LICENSE) file for more details. 
 
 ---
 
