@@ -1,4 +1,4 @@
-🌙 **Linux-Moonlit**
+🌖 **Linux-Moonlit**
 
  **Your Trading Ally in the Darkest Hours, Empowered by AI and Blockchain.**
 
